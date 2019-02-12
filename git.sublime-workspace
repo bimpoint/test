@@ -1,0 +1,989 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"corner",
+				"corner_angle_1"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"extra",
+				"_przylga_extra_thk"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"OKNO",
+				"K_bOKNO"
+			],
+			[
+				"przyl",
+				"przylga_width"
+			],
+			[
+				"przy",
+				"przylga_thk"
+			],
+			[
+				"przylga",
+				"przylga_extra_thk"
+			],
+			[
+				"matF",
+				"_matFrame"
+			],
+			[
+				"kin_",
+				"kin_genericLeaf\tstatement"
+			],
+			[
+				"ui",
+				"uif\tUI_INFIELD_SIMPLE"
+			],
+			[
+				"vect",
+				"vector_angle\tvector3D_angle"
+			],
+			[
+				"ve",
+				"vector_angle\tvector2D_angle"
+			],
+			[
+				"func_",
+				"func_sumArray\tfunc_vectorAngle"
+			],
+			[
+				"Zew",
+				"ZEW"
+			],
+			[
+				"_panel",
+				"_panelThk"
+			],
+			[
+				"extr",
+				"extr\tExtrude"
+			],
+			[
+				"_win",
+				"_win_w"
+			],
+			[
+				"doorwi",
+				"doorWithWindow"
+			],
+			[
+				"vrt",
+				"vertex\tvertex"
+			],
+			[
+				"_prz",
+				"_przylga_thickness"
+			],
+			[
+				"sub",
+				"sub\tsub"
+			],
+			[
+				"arc",
+				"arc2"
+			],
+			[
+				"__arr",
+				"__arrx"
+			],
+			[
+				"htp_",
+				"htp_slide_3d"
+			],
+			[
+				"htp_sli",
+				"htp_slide_3d"
+			],
+			[
+				"openin",
+				"openingType"
+			],
+			[
+				"leafdept",
+				"leafDepthFix3D"
+			],
+			[
+				"__midpo",
+				"__midPoint_y"
+			],
+			[
+				"_midpoin",
+				"__midPoint_x"
+			],
+			[
+				"__midpoint_",
+				"__midPoint_x"
+			],
+			[
+				"__midpoin",
+				"__midPoint_x"
+			],
+			[
+				"hotp",
+				"hotspot2"
+			],
+			[
+				"workin",
+				"working_file_basename\tstatement"
+			],
+			[
+				"ec",
+				"except\tkeyword"
+			],
+			[
+				"backup",
+				"backup_folder\tstatement"
+			],
+			[
+				"cop",
+				"copy"
+			],
+			[
+				"backu",
+				"backup_folder\tstatement"
+			],
+			[
+				"circle",
+				"circle2\tcircle2"
+			],
+			[
+				"var",
+				"vardim1"
+			],
+			[
+				"hotspo",
+				"hotspot2"
+			],
+			[
+				"htp_slide",
+				"htp_slide_2d"
+			],
+			[
+				"gs_slide",
+				"gs_slide_open_2d"
+			],
+			[
+				"func",
+				"func_mapValues\tfunc_mapValues"
+			],
+			[
+				"gs_open",
+				"gs_slide_open_2d"
+			],
+			[
+				"pol2_",
+				"poly2_\tpoly2_"
+			],
+			[
+				"arc_ce",
+				"ARC_CENTER_RAD"
+			],
+			[
+				"cente",
+				"SET_CENTER"
+			],
+			[
+				"htp",
+				"htsptxy\tHOTSPOT2 - XY"
+			],
+			[
+				"values",
+				"values"
+			],
+			[
+				"_przyl",
+				"_przylga_width"
+			],
+			[
+				"leafth",
+				"gs_leaf_thk"
+			],
+			[
+				"ui_pict",
+				"ui_pict_button"
+			],
+			[
+				"_corner",
+				"_corner_radius_max"
+			],
+			[
+				"_dlu",
+				"_dlugosc_max"
+			],
+			[
+				"_dlugosc",
+				"_dlugosc"
+			],
+			[
+				"_dlugo",
+				"_dlugosc"
+			],
+			[
+				"angle_1",
+				"_angle_1_rad"
+			],
+			[
+				"_angle",
+				"_angle_1_rad"
+			],
+			[
+				"corner_",
+				"corner_radius"
+			],
+			[
+				"corner_b",
+				"corner_b"
+			],
+			[
+				"corner_b_",
+				"_corner_b_max"
+			],
+			[
+				"dlugosc",
+				"dlugosc"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"uip",
+				"ui_pict"
+			],
+			[
+				"UKLAD",
+				"uklad_plyty"
+			],
+			[
+				"_stCo",
+				"_stCorner_name"
+			],
+			[
+				"_stCorner",
+				"_stCornerType"
+			],
+			[
+				"uklad",
+				"uklad_plyty"
+			],
+			[
+				"value",
+				"values{2}"
+			],
+			[
+				"ifc",
+				"ifcfile\tstatement"
+			],
+			[
+				"is",
+				"isfile\tfunction"
+			],
+			[
+				"converte",
+				"converted_ifcfile\tstatement"
+			],
+			[
+				"parse",
+				"parse_args\tfunction"
+			],
+			[
+				"re",
+				"replace\tfunction"
+			],
+			[
+				"read",
+				"read_autotext_table\tfunction"
+			],
+			[
+				"CSV",
+				"csv_file\tparam"
+			],
+			[
+				"array",
+				"arrayName\tparam"
+			],
+			[
+				"pic",
+				"picture2\tpicture2"
+			],
+			[
+				"obj_",
+				"OBJ_TEXT"
+			],
+			[
+				"rich",
+				"richtext"
+			],
+			[
+				"mus_",
+				"mus_eksponat_xml\tstatement"
+			],
+			[
+				"mus",
+				"mus_eksponat_gsm\tstatement"
+			],
+			[
+				"rev",
+				"revolve{2}"
+			],
+			[
+				"revol",
+				"revolve"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"modul",
+				"MODUL\tstatement"
+			],
+			[
+				"height",
+				"HEIGHT\tstatement"
+			],
+			[
+				"resol",
+				"RESOL\tstatement"
+			],
+			[
+				"te",
+				"textsize\tfunction"
+			],
+			[
+				"Image",
+				"ImageDraw\tmodule"
+			],
+			[
+				"name",
+				"NAME\tstatement"
+			],
+			[
+				"globmp",
+				"GLOB_MODPAR_NAME"
+			],
+			[
+				"reqma",
+				"reqMatName\treqMatName"
+			],
+			[
+				"reqmat",
+				"reqmatinfo\tMaterial request"
+			],
+			[
+				"req",
+				"reqmatinfo\tMaterial request"
+			],
+			[
+				"fun",
+				"func_recordIndeces\tfunc_recordIndeces"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"panel",
+				"panelMat"
+			],
+			[
+				"ui_o",
+				"ui_outfield"
+			],
+			[
+				"profilacja",
+				"profilacja_zewnetrzna"
+			],
+			[
+				"nrodzaj",
+				"nRodzajListwy"
+			],
+			[
+				"temp_",
+				"temp_img_id"
+			],
+			[
+				"nroda",
+				"nRodzajListwy"
+			],
+			[
+				"_strodzaj",
+				"_stRodzajListwy"
+			],
+			[
+				"product",
+				"product_1_acustic"
+			],
+			[
+				"_LISTWA_uklad",
+				"_LISTWA_UKLAD_PION"
+			],
+			[
+				"kod",
+				"KOD_PLYTY"
+			],
+			[
+				"ac_a",
+				"AC_MarkerSize"
+			],
+			[
+				"poly",
+				"poly2_\tpoly2_"
+			],
+			[
+				"pol",
+				"poly2_"
+			],
+			[
+				"dma",
+				"define material"
+			],
+			[
+				"irodzaj",
+				"iRodzajPoczatku"
+			],
+			[
+				"koniec",
+				"KONIEC"
+			],
+			[
+				"TEXT",
+				"text2"
+			],
+			[
+				"sect_",
+				"sect_fill"
+			],
+			[
+				"grubosc",
+				"grubosc_plyty"
+			],
+			[
+				"symb",
+				"SYMB_ROTANGLE"
+			],
+			[
+				"debug",
+				"debug_id\tdebug_id"
+			],
+			[
+				"VALU",
+				"values{2}"
+			],
+			[
+				"Turtle",
+				"Turtle\tclass"
+			],
+			[
+				"__",
+				"__doc__\tinstance"
+			],
+			[
+				"co",
+				"copy\tfunction"
+			],
+			[
+				"_stRodzajlistw",
+				"_stRodzajListwyB"
+			],
+			[
+				"_strodz",
+				"_stRodzajZakonczenia"
+			],
+			[
+				"nrodz",
+				"nRodzajListwy"
+			],
+			[
+				"nrodzajlist",
+				"nRodzajListwyB"
+			],
+			[
+				"_strodzajlist",
+				"_stRodzajListwyB"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gdl",
+				"Set Syntax: GDL"
+			],
+			[
+				"GDL",
+				"Set Syntax: GDL"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"http",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"gd",
+				"Set Syntax: GDL"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"GD L",
+				"Set Syntax: GDL"
+			],
+			[
+				"PYTH",
+				"Set Syntax: Python"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"arn",
+				"Set Syntax: ArnoldC"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"xml ",
+				"Set Syntax: XML with GDL"
+			],
+			[
+				"kivy",
+				"Set Syntax: Kivy Syntax"
+			],
+			[
+				"gdl ",
+				"Set Syntax: XML with GDL"
+			],
+			[
+				"PYT",
+				"Set Syntax: Python"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"gdk",
+				"Package Control: Disable Package"
+			],
+			[
+				"ssg",
+				"Set Syntax: GDL"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"fol",
+				"Project: Add Folder"
+			],
+			[
+				"prof",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"git clone https://github.com/runxel/GDL-sublime \"GDL\"",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"s"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/kin-nar-py/kin-naroznik.py",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/pl_naroznik/v02/01_MS_naroznik_pl_v02.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/panel_generic/02_3d_corner_generic_panel_v01.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/pl_naroznik/v02/03_3D_naroznik_pl_v02.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/panel_generic/01_MS_corner_generic_panel_v01.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/pl_naroznik/v02/04_PA_naroznik_pl_v02.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/panel_generic/04_PA_corner_generic_panel_v01.gdl",
+		"/Users/GrzegorzWilk/Desktop/sql/f2.py",
+		"/Users/GrzegorzWilk/Desktop/sql/templates/index.html",
+		"/Users/GrzegorzWilk/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/GrzegorzWilk/Desktop/test.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/02-kin-drz-lib/01-macros/dane/kin - doors.tsv",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-py/kin-drzwi.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-wing/kin-drz-wing-v02.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-wing/kin-ms-drz-wing-v02.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-wing/kin-PA-drz-wing-v02.gdl",
+		"/Users/GrzegorzWilk/Desktop/atom_flask/flask_test.py",
+		"/Users/GrzegorzWilk/Desktop/pip/pip_instaleed.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/V02/03-3d-kin-drz-template-v02.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/01-ms-kin-drz-template-v01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/V02/04-pa-kin-drz-template-v02.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/V02/01-ms-kin-drz-template-v02.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/02-2d-kin-drz-template-v01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/03-3d-kin-drz-template-v01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/01-kin-drz-template/04-pa-kin-drz-template-v01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/04-kin-drz-UI-pl/05-ui-kin-drz-UI_PL-v01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/02-kin-drz-lib/01-macros/dane/kin - doors 2.tsv",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/04-kin-drz-UI-pl/01-ms-kin-drz-UI_PL-v01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-py/gdl.py",
+		"/Users/GrzegorzWilk/Library/Application Support/Sublime Text 3/Packages/GDL/Snippets/sub_input.sublime-snippet",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-wing/kin-drz-wing.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/BIMPOINT/PSE-KABEL/02-psk-edit/psk-kabel-v01/radius_from_midpoint.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-py/_mus_picture.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-py/lp-test-section.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-py/kin.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/03-kin-drz-edit/02-kin-drz-py/lp_converter.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/02-kin-drz-lib/01-macros/dane/_kin - doors.tsv",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/12-kin-drzwi/02-kin-drz-lib/01-macros/dane/polskone - dane.tsv",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/PROMAT/04-PRO-PROJEKT/PRO-EDIT/1-Segment prosty/1-SegmentProsty_ui_v06.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/UI/ui_corner_en.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/UI/ui_corner_pl.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/pl_naroznik/05_UI_naroznik_pl_v01.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar-edit/ui_pl/ui_corner_en.gdl",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/01-kin-nar-lib/01-MainSet/DANE/PL/wall_corner_panel_secret-fix_PL.csv",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/00-kin-nar-manage/kin-nar.sublime-project",
+		"/Users/GrzegorzWilk/Desktop/kin-narozniki/kin-nar.sublime-project",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/klasyfikacja.xml",
+		"/Users/GrzegorzWilk/Desktop/TkinterDnD2-0.3/ask.py",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/ifc_replacement_v01.py",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/Converted IFC/test2.ifc",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/Converted IFC/test.ifc",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/argparse/argparse_test_2.py",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/autotext.csv",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/test.ifc",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/Z4-Stacja-02.ifc",
+		"/Users/GrzegorzWilk/Desktop/05-pse-py/test2.ifc",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/BIMPOINT/PSE/05-pse-py/Z4-Stacja-02.ifc",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/BIMPOINT/PSE/05-pse-py/ifc_replacement_v01.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/BIMPOINT/PSE/04-pse-ifc/Z4-Stacja-02.ifc",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/BIMPOINT/PSE/05-pse-py/tests.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/BIMPOINT/PSE/05-pse-py/autotext.csv",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/argparse/argparse_test.py",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/lumpy/lumpy.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/updateArray.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/dane_test.tsv",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/mus.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-lib/mus-dane/m4 - owca.tsv",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/mus_picture.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus_eksponat_3d.gdl",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus_eksponat_ms.gdl",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-omr-ms.gsm",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-lib/mus-dane/m1 - dzikosc.tsv",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus_eksponat_2d.gdl",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-omr-ui.gsm",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/array_new.xml",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/test.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/fillArray.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/array_done.xml",
+		"/Users/GrzegorzWilk/Desktop/prj/ux/unilever.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/lp_converter.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/MASTER_GDL_mus_pictures.xml",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/pictures.gdl",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/cdata.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-lib/mus-dane/mus - grafiki.tsv",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-edit/mus-py/mus-picture.py",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-lib/mus-dane/omr_mus.gdl",
+		"/Users/GrzegorzWilk/Desktop/mus/mus-lib/mus-dane/mus - grafiki.csv",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/Image/img.sublime-project",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/01-Panel Roof/kin-panelRoof_rw-3d-03.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/01-Panel/V08/3_Panel_3D_v08.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/older/v36/1_kin-k3-wall-MS-v36.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/older/v36/6_kin-k3-wall-UI-en-v36.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v37/6_kin-k3-wall-UI-pl-v37.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v37/6_kin-k3-wall-UI-en-v37.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v36/5_kin-k3-wall-PA-v36.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/11-wallAC/01-kingspan-lib/01-MainSet/DANE/finish.csv",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v36/wczytywanie_danych_2.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v36/test_wszytywanie_finish.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v36/1_kin-k3-wall-MS-v36.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/kintest.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/kin_log.py",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v35/1_kin-k3-wall-MS-v35.gdl",
+		"/Users/GrzegorzWilk/Desktop/].py/dra-sub-prj/dra-sub-prj.sublime-project",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v35/3_kin-k3-wall-3D-v35.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v35/5_kin-k3-wall-PA-v35.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v35/6_kin-k3-wall-UI-pl-v35.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v35/6_kin-k3-wall-UI-en-v35.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v35/2_kin-k3-wall-2D-v35.gdl",
+		"/Users/GrzegorzWilk/Desktop/d.json",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/180915_MODEL_PAWILON_6.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/p_90_arco_w3.xml",
+		"/Users/GrzegorzWilk/Downloads/PauperTools-master/Docs/PauperToolsUsing.md",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/p_90_arco_w2s.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/saveLcf.py",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w01.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w02.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w03.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w04.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w05.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w06.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w07.xml",
+		"/Users/GrzegorzWilk/Documents/PROGRAMING/python_playground/comandline/xml_dir/b_90_sempresense_w08.xml",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v34/1_kin-k3-wall-MS-v34.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/03-Wall/v34/3_kin-k3-wall-3D-v34.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/01-Panel/V07/3_Panel_3D_v07.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/01-Panel Roof/kin-panelRoof_ff-3d-01.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/01-Panel Roof/kin-panelRoof_rw-3d-02.gdl",
+		"/Users/GrzegorzWilk/Documents/BIM/ArchiCAD/BIBLIOTEKI/BIBLIOTEKI DLA FIRM/KINGSPAN/02-kin-projekt/05-kin-krok3/00-kin-krok3-edit/06-UI/kin-ui_sciana-ui-v14.gdl"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 593.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 301.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "git.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"k2-play/htp_last.gdl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
